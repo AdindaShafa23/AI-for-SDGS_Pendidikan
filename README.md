@@ -47,7 +47,7 @@ Deployment  →  Vercel (zero config)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-for-sdgs-indonesia.git
+git clone https://github.com/your-username/ai-for-sdgs-indonesia.git](https://github.com/AdindaShafa23/AI-for-SDGS_Pendidikan
 cd ai-for-sdgs-indonesia
 ```
 
