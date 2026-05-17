@@ -175,7 +175,7 @@ Lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
-## 🙏 Referensi & Inspirasi
+## Referensi 
 
 - [UN SDGs](https://sdgs.un.org)
 - [Google AI for Social Good](https://ai.google/responsibilities/social-good)
@@ -183,9 +183,3 @@ Lihat file [LICENSE](LICENSE) untuk detail.
 - [Climate Change AI](https://climatechange.ai)
 - [AI for Good Foundation](https://ai4good.org)
 
----
-
-
-**[Website]([https://ai-for-sdgs.vercel.app](https://ai-for-sdgs-pendidikan.vercel.app/)** · **[GitHub]([https://github.com/your-username/ai-for-sdgs-indonesia](https://github.com/AdindaShafa23/AI-for-SDGS_Pendidikan.git))** ·
-
-</div>
