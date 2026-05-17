@@ -155,58 +155,6 @@ export async function GET() {
 }
 ```
 
----
-
-## 🌐 Deploy ke Vercel
-
-### Cara 1: One-click Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/ai-for-sdgs-indonesia)
-
-### Cara 2: Via CLI
-
-```bash
-npm i -g vercel
-vercel --prod
-```
-
-### Cara 3: GitHub Integration
-
-1. Push ke GitHub
-2. Buka [vercel.com](https://vercel.com)
-3. Import repository
-4. Deploy otomatis!
-
----
-
-## 🤝 Cara Berkontribusi
-
-Kami sangat menyambut kontribusi dari komunitas!
-
-```bash
-# 1. Fork repository ini
-# 2. Buat branch baru
-git checkout -b feature/nama-fitur
-
-# 3. Commit perubahanmu
-git commit -m 'feat: tambah fitur xyz'
-
-# 4. Push ke branch
-git push origin feature/nama-fitur
-
-# 5. Buat Pull Request
-```
-
-### Area yang Bisa Dikontribusikan
-
-- 📝 Menambah/memperbarui data SDGs Indonesia
-- 🗞️ Menambah sumber berita RSS baru
-- 🎨 Meningkatkan UI/UX komponen
-- 📊 Menambah visualisasi data baru
-- 🌐 Terjemahan konten
-- 🐛 Bug fixes
-
----
 
 ## 📊 Data Sumber
 
@@ -238,10 +186,7 @@ Lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
-<div align="center">
 
-Dibuat dengan ❤️ untuk Indonesia yang lebih baik
-
-**[Website](https://ai-for-sdgs.vercel.app)** · **[GitHub](https://github.com/your-username/ai-for-sdgs-indonesia)** · **[Kontribusi](CONTRIBUTING.md)**
+**[Website](https://ai-for-sdgs.vercel.app)** · **[GitHub]([https://github.com/your-username/ai-for-sdgs-indonesia](https://github.com/AdindaShafa23/AI-for-SDGS_Pendidikan.git))** ·
 
 </div>
