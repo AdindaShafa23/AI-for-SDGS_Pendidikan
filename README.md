@@ -17,9 +17,8 @@
 | 📊 **Dashboard Interaktif** | Charts Recharts, statistik ekosistem AI, SDGs progress |
 | 📰 **Berita AI Indonesia** | Agregasi RSS dari Detik, Kompas, CNN Indonesia |
 | 🌍 **SDGs Explorer** | 17 SDGs dengan penjelasan AI, studi kasus & tools Indonesia |
-| 🎯 **Quiz Interaktif** | 3 pertanyaan → rekomendasi SDG & AI tools personal |
+| 🎯 **Quiz Interaktif** | 3 pertanyaan rekomendasi SDG & AI tools personal |
 | 📚 **Modul Belajar** | 6 kursus AI literacy gratis, jalur belajar terstruktur |
-| 🌙 **Dark Mode** | Desain premium dark theme |
 | 📱 **Responsive** | Mobile-first, optimal di semua perangkat |
 | ⚡ **Tanpa Login** | Bebas akses semua fitur tanpa akun |
 
@@ -39,7 +38,7 @@ Deployment  →  Vercel (zero config)
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Prasyarat
 - Node.js 18+
@@ -187,6 +186,6 @@ Lihat file [LICENSE](LICENSE) untuk detail.
 ---
 
 
-**[Website](https://ai-for-sdgs.vercel.app)** · **[GitHub]([https://github.com/your-username/ai-for-sdgs-indonesia](https://github.com/AdindaShafa23/AI-for-SDGS_Pendidikan.git))** ·
+**[Website]([https://ai-for-sdgs.vercel.app](https://ai-for-sdgs-pendidikan.vercel.app/)** · **[GitHub]([https://github.com/your-username/ai-for-sdgs-indonesia](https://github.com/AdindaShafa23/AI-for-SDGS_Pendidikan.git))** ·
 
 </div>
